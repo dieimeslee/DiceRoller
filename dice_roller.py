@@ -23,4 +23,3 @@ class Funcionamento:
 
 rodar_dados = Funcionamento()
 rodar_dados.Iniciar()
-print('teste')
